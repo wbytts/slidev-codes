@@ -2,6 +2,7 @@
   "name": "slidev-cbh",
   "private": true,
   "scripts": {
+    "start": "slidev",
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export"
